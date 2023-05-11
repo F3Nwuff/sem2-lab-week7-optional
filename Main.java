@@ -1,3 +1,6 @@
+//Hilkia Kennan Latjandu - 2602174485
+//question a and b
+
 public class Main {
     static class Node {
         Node left;
